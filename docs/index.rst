@@ -8,10 +8,6 @@ In this article, we’ll use the keywords **Comcast Email Account Sign in** and 
 Use this direct link to sign in:  
 `https://xfinity.com <https://xfinity.com>`_
 
-.. contents::
-   :local:
-   :depth: 2
-
 Overview of Comcast Email Services
 ----------------------------------
 
