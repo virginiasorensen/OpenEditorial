@@ -3,6 +3,12 @@ How Do I Log in to Xfinity Email Inbox: Access and Sign in Comcast Email Account
 
 If you're a Comcast customer, accessing your Xfinity email inbox is essential for managing your digital communications, billing alerts, and service updates. Many users search for **Comcast Email Account Sign in** or how to **Log in to Xfinity Email Inbox**—this guide has you covered. Whether you're checking emails from home, office, or while traveling, signing into your Comcast Xfinity account is simple if you follow the right steps.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://deskcomcast.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with Comcast Portal</a>
+   </div>
+
 In this article, we’ll use the keywords **Comcast Email Account Sign in** and **Log in to Xfinity Email Inbox** multiple times to clearly explain each step and help boost search relevance. By the end of this post, you’ll know how to log in, fix sign-in errors, and make the most of your Comcast email features.
 
 Use this direct link to sign in:  
